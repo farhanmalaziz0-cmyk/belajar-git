@@ -1,1 +1,1 @@
-# Belajar Git
+echo "Ini update pertama" >> README.md
